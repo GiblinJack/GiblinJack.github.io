@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a third year biochemstry major with an interest in organic synthesis and medical chemistry. I have a career goal of being a physicians assistant. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from Santa Cruz, Ca. Some hobbies of mine are surfing, skiing and overland camping. 
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[armcdona@calpoly.edu](Giblin@calpoly.edu)
