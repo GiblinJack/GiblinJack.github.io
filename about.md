@@ -12,4 +12,4 @@ I am from Santa Cruz, Ca. Some hobbies of mine are surfing, skiing and overland 
 
 ### Contact me
 
-(Giblin@calpoly.edu)
+Giblin@calpoly.edu
