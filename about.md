@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am from Santa Cruz, Ca. Some hobbies of mine are surfing, skiing and overland camping.
+I am from Santa Cruz, Ca. Some hobbies of mine are surfing, skiing and overland camping. I have a passion for the wildland and have contributed to my community through regular beach cleanups and participation in local public trail maintenance. 
 
 ### More Information
 Relevant course work:
